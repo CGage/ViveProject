@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 7ca9f4c642b67a349bbd9b52f27671bc
+timeCreated: 1469683377
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Algae
+    100004: AlgaeText
+    100006: Coral
+    100008: CoralText
+    100010: Rock
+    100012: RockText
+    100014: Sand
+    100016: SandText
+    100018: Torus001
+    100020: Water
+    100022: WaterText
+    400000: //RootNode
+    400002: Algae
+    400004: AlgaeText
+    400006: Coral
+    400008: CoralText
+    400010: Rock
+    400012: RockText
+    400014: Sand
+    400016: SandText
+    400018: Torus001
+    400020: Water
+    400022: WaterText
+    2300000: Algae
+    2300002: AlgaeText
+    2300004: Coral
+    2300006: CoralText
+    2300008: Rock
+    2300010: RockText
+    2300012: Sand
+    2300014: SandText
+    2300016: Water
+    2300018: WaterText
+    3300000: Algae
+    3300002: AlgaeText
+    3300004: Coral
+    3300006: CoralText
+    3300008: Rock
+    3300010: RockText
+    3300012: Sand
+    3300014: SandText
+    3300016: Water
+    3300018: WaterText
+    4300000: Water
+    4300002: Rock
+    4300004: Coral
+    4300006: Sand
+    4300008: Algae
+    4300010: SandText
+    4300012: RockText
+    4300014: WaterText
+    4300016: CoralText
+    4300018: AlgaeText
+    6400000: Algae
+    6400002: AlgaeText
+    6400004: Coral
+    6400006: CoralText
+    6400008: Rock
+    6400010: RockText
+    6400012: Sand
+    6400014: SandText
+    6400016: Water
+    6400018: WaterText
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
